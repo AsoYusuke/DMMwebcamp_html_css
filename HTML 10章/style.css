@@ -72,22 +72,17 @@ background-color: #aaa;
   }
 
   main {
-    width: 100%;
-    display:block;
-    margin: 50px;
+    width: 90%;
+    display: block;
   }
 
   .step-box {
-    width: 90%;
-    margin-bottom: 20px;
-  }
-
-  .step-box :last-child {
-    margin-bottom: 0;
+    width: 100%;
+    margin: 20px auto;
+    position: relative;
   }
 
   .footer {
-    height: 50px;
     width: 100%;
   }
 }
